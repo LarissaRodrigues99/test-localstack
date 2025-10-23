@@ -1,0 +1,62 @@
+[
+    {
+        "id": "122657f5-c1d6-4365-81a6-c78924f80e9f",
+        "cliente": "Carlos Souza",
+        "valor": 431.86,
+        "data_emissao": "2025-10-23"
+    },
+    {
+        "id": "0c882614-cb75-4609-9b9d-17df6062e5ba",
+        "cliente": "Carlos Souza",
+        "valor": 744.82,
+        "data_emissao": "2025-10-23"
+    },
+    {
+        "id": "5aa3640a-65d7-4ac0-a07f-326e8b5d6d09",
+        "cliente": "João Silva",
+        "valor": 502.02,
+        "data_emissao": "2025-10-23"
+    },
+    {
+        "id": "62188d9e-7635-46bf-8829-1df968147610",
+        "cliente": "Carlos Souza",
+        "valor": 828.75,
+        "data_emissao": "2025-10-23"
+    },
+    {
+        "id": "f4ff47a0-93c0-4f15-bce9-8b8910cea0e2",
+        "cliente": "João Silva",
+        "valor": 787.08,
+        "data_emissao": "2025-10-23"
+    },
+    {
+        "id": "621fb9db-22b1-4f4a-803c-a657f676ead4",
+        "cliente": "Ana Santos",
+        "valor": 303.54,
+        "data_emissao": "2025-10-23"
+    },
+    {
+        "id": "82bc4118-4f82-4f5d-8461-ccd27201a1a4",
+        "cliente": "Ana Santos",
+        "valor": 939.37,
+        "data_emissao": "2025-10-23"
+    },
+    {
+        "id": "f08903e5-f9a1-482c-a9e3-1852223c6469",
+        "cliente": "Ana Santos",
+        "valor": 776.93,
+        "data_emissao": "2025-10-23"
+    },
+    {
+        "id": "19d960cb-c884-4f39-82e9-8bdb9dd72c76",
+        "cliente": "Carlos Souza",
+        "valor": 984.21,
+        "data_emissao": "2025-10-23"
+    },
+    {
+        "id": "609ca4fa-5986-496c-b6e5-eb3150623029",
+        "cliente": "João Silva",
+        "valor": 861.86,
+        "data_emissao": "2025-10-23"
+    }
+]
