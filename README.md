@@ -1,6 +1,6 @@
 # 🧾 Projeto: Processamento de Notas Fiscais com AWS LocalStack
 
-![Arquitetura do Projeto](./S3%20e%20Lambida.png)
+![Arquitetura do Projeto](https://raw.githubusercontent.com/LarissaRodrigues99/test-localstack/refs/heads/main/image/s3Lambida.png)
 
 ## 📖 Visão Geral
 
